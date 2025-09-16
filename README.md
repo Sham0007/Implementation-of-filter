@@ -23,8 +23,8 @@ End the program.
 
 ## Program:
 ```
-Developed By   : Udayakumar R
-Register Number: 212222230163
+Developed By   : SARAVANAN SHAM PRAKASH
+Register Number: 212224230254
 ```
 
 ### 1. Smoothing Filters
